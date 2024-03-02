@@ -1,0 +1,19 @@
+{
+  "name": "ttsboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.7.1"
+  },
+  "dependencies": {
+    "@types/blessed": "^0.1.25",
+    "reblessed": "^0.2.1"
+  }
+}

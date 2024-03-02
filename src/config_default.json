@@ -1,0 +1,7 @@
+{
+  "prefix": "/",
+  "sound-dir": "/home/meow/Music",
+  "tts-engine": "tiktok",
+  "tts-token": "",
+  "voice": "en_us_002"
+}
