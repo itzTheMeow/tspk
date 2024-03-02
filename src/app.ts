@@ -11,7 +11,7 @@ process.on("unhandledRejection", (err) => {
 
 const screen = bl.screen({
   smartCSR: true,
-  title: "TTSBoard",
+  title: "Tspk",
   width: "100%",
   height: "100%",
   fullUnicode: true,
@@ -29,4 +29,4 @@ screen.key(["C-c", "C-w"], function (ch, key) {
 
 screen.render();
 
-logText("Welcome to TTSBoard!");
+logText("Welcome to Tspk!");

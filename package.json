@@ -1,5 +1,5 @@
 {
-  "name": "ttsboard",
+  "name": "tspk",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,13 +7,11 @@
     "start": "tsx src/app.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Meow",
   "license": "ISC",
-  "devDependencies": {
-    "tsx": "^4.7.1"
-  },
   "dependencies": {
     "@types/blessed": "^0.1.25",
-    "reblessed": "^0.2.1"
+    "reblessed": "^0.2.1",
+    "tsx": "^4.7.1"
   }
 }

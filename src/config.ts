@@ -8,7 +8,7 @@ export const CONFIG_DIR = path.join(
       (process.platform == "darwin"
         ? process.env.HOME + "/Library/Preferences"
         : process.env.HOME + "/.local/share"),
-    "ttsboard"
+    "tspk"
   ),
   CONFIG_PATH = path.join(CONFIG_DIR, "config.json");
 

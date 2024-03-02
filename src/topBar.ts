@@ -4,7 +4,7 @@ export default function topBar(screen: bl.Widgets.Screen) {
   const topBar = bl.box({
     bg: "white",
     fg: "black",
-    content: "TTSBoard",
+    content: "Tspk",
     height: 1,
     padding: { left: 1, right: 1 },
   });
